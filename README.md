@@ -1,5 +1,5 @@
 # LearnGitTogether
-Awesome list of learn material on Git
+Awesome list of learn materials on Git
 
 [:arrow_down: Tags legend](#tags-legend) at the end of the page.
 
