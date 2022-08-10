@@ -13,7 +13,7 @@ Awesome list of learn material on Git
 - [Git How To](https://githowto.com/uk) ( _reading_ ) ( _course_ )
 - [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) ( _reading_ ) ( _course_ )
 - [Git Tutorial by w3school](https://www.w3schools.com/git/) ( _reading_ )
-- [Git - the simple guide](http://up1.github.io/git-guide/index.html)
+- [Git - the simple guide](http://up1.github.io/git-guide/index.html) ( _reading_ )
 
 
 ## Advanced 
