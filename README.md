@@ -14,6 +14,9 @@ Awesome list of learn materials on Git
 - [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) ( _reading_ ) ( _course_ )
 - [Git Tutorial by w3school](https://www.w3schools.com/git/) ( _reading_ )
 - [Git - the simple guide](http://up1.github.io/git-guide/index.html) ( _reading_ )
+- [Git Immersion](https://gitimmersion.com/index.html) ( _reading_ ) ( _course_ )
+- [CodeAcademy Free Course](https://www.codecademy.com/learn/learn-git?periods=year&utm_source=pepperjam&utm_medium=affiliate&utm_term=214453&clickId=4208915523&pj_creativeid=8-12462&pj_publisherid=214453) ( _course_ )
+- [Udemy Free Course](https://www.udacity.com/course/version-control-with-git--ud123?irclickid=X8KTyLyCxxyNTbgQNSSAlymTUkAxo6zuc2jQTM0&irgwc=1&utm_source=affiliate&utm_medium=&aff=245992&utm_term=&utm_campaign=__&utm_content=&adid=786224) ( _course_ )
 
 
 ## Advanced 
@@ -21,19 +24,12 @@ Awesome list of learn materials on Git
 - [Git for Profesionals](https://www.youtube.com/watch?v=Uszj_k0DGsg) by [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp) ( _video_ ) 
 - [Three-git-tips](https://github.com/saraford/three-git-tips) by [saraford](https://github.com/saraford) ( _reading_ )
 - [Git - Book](https://git-scm.com/book/en/v2) ( _reading_ ) ( _official_ )
+- [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html) ( _reading_ )
 
 ## Git && GitHub
 
 - [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk) by [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)  ( _video_ )
 - [Git and GitHub Tutorial For Beginners](https://www.youtube.com/watch?v=3fUbBnN_H2c) by [Amigoscode](https://www.youtube.com/c/amigoscode) ( _video_ )
-
-## Other collections
-
-- [Best Courses to Learn Git](https://www.gitkraken.com/blog/best-courses-learn-git) ( _reading_ ) ( _collection_ )
-- [Top 11 Places to learn Git & GitHub in 2022](https://medium.com/javarevisited/11-best-online-places-to-learn-git-for-beginners-in-2021-6dc2b7c6ef48) ( _reading_ ) ( _collection_ )
-- [10 Free Resources to Help You Learn Git](https://speckyboy.com/resources-for-learning-git/) ( _reading_ ) ( _collection_ )
-- [10 Best Free Resources to Learn Git – Version Control System](https://geekflare.com/learn-git-free/) ( _reading_ ) ( _collection_ )
-
 
 ## Tags legend
 
@@ -42,4 +38,3 @@ Awesome list of learn materials on Git
 - ( _course_ ) - consists of series of text/video articles trying to give to a reader solid foundation
 - ( _reading_ ) - material to read
 - ( _video_ ) - material to watch
-- ( _collection_ ) - list of resources
