@@ -26,7 +26,7 @@ Awesome list of learn materials on Git
 - [Git - Book](https://git-scm.com/book/en/v2) ( _reading_ ) ( _official_ ) *
 - [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html) ( _reading_ )
 
-## Git && GitHub
+## Git & GitHub
 
 - [Getting started with GitHub](https://docs.github.com/en/get-started) ( _official_ ) ( _reading_ ) *
 - [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk) by [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)  ( _video_ )
