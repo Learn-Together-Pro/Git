@@ -32,6 +32,10 @@ Awesome list of learn materials on Git
 - [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk) by [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)  ( _video_ )
 - [Git and GitHub Tutorial For Beginners](https://www.youtube.com/watch?v=3fUbBnN_H2c) by [Amigoscode](https://www.youtube.com/c/amigoscode) ( _video_ )
 
+## Cheatsheets
+
+![cheatsheet](/images/cheatsheet.jpg)
+
 ## Tags legend
 
 - ( _official_ ) - official material
