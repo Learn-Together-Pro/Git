@@ -10,9 +10,9 @@ Awesome list of learn materials on Git.
 
 ## For beginners
 
-- ⭐ [Mini-course on Git](https://www.codecademy.com/learn/learn-git/modules/learn-git-git-workflow-u/cheatsheet) from [Code Academy](https://www.codecademy.com/)
+- ⭐ [Mini-course on Git](https://www.codecademy.com/learn/learn-git/modules/learn-git-git-workflow-u/cheatsheet) from [Code Academy](https://www.codecademy.com/) ( _course_ )
 - ⭐ [Course on Git](https://www.codecademy.com/learn/learn-git) from [Code Academy](https://www.codecademy.com/) ( _course_ )
-- ⭐ [Learn Git Branching through game](https://learngitbranching.js.org/) ( _game_ ) ( _reading_ )
+- ⭐ [Learn Git Branching through game](https://learngitbranching.js.org/) ( _interactive_ ) ( _reading_ )
 - ⭐ [Git in 1 Hour](https://youtu.be/8JJ101D3knE) by [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh) ( _video_ )
 - [Git: Complete Course Tutorial](https://www.youtube.com/watch?v=vMdSqMf6BPY&list=PL_euSNU_eLbegnt7aR8I1gXfLhKZbxnYX) by [Leela Web Dev](https://www.youtube.com/c/LeelaWebDev) ( _video_ ) ( _course_ )
 - [Git. Большой практический выпуск](https://www.youtube.com/watch?v=SEvR78OhGtw) by [Артем Матяшов](https://www.youtube.com/channel/UCJHS22_QyRowmNAaxoUd4dA) ( _video_ ) ( _course_ ) ( _non-eng_ )
@@ -39,7 +39,9 @@ Awesome list of learn materials on Git.
 
 ## Cheatsheets
 
-- [Git Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) by [GitLab](https://gitlab.com) :
+( _cheatsheet_ )
+
+- [Git Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) by [GitLab](https://gitlab.com)
 
 ## Tags legend
 
@@ -48,3 +50,5 @@ Awesome list of learn materials on Git.
 - ( _course_ ) - consists of series of text/video articles trying to give to a reader solid foundation
 - ( _reading_ ) - material to read
 - ( _video_ ) - material to watch
+- ( _cheatsheet_ ) - cheat sheet
+- ( _interactive_ ) - interactive
