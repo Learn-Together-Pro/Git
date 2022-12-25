@@ -31,6 +31,7 @@ Awesome list of learn materials on Git.
 - [Git for Profesionals](https://www.youtube.com/watch?v=Uszj_k0DGsg) by [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp) ( _video_ )
 - [Three-git-tips](https://github.com/saraford/three-git-tips) by [saraford](https://github.com/saraford) ( _reading_ )
 - [13 Advanced Git Techniques and Shortcuts](https://www.youtube.com/watch?v=ecK3EnyGD8o) by [Fireship](https://www.youtube.com/@Fireship/playlists) : ( _video_ )
+- [Git Internals](https://www.youtube.com/watch?v=P6jD966jzlk) by [GitLab](https://www.youtube.com/@Gitlab) : ( _video_ )
 
 ## Git & GitHub
 
