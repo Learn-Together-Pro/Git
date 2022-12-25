@@ -11,9 +11,9 @@ Awesome list of learn materials on Git.
 ## For beginners
 
 - ⭐ [Mini-course on Git](https://www.codecademy.com/learn/learn-git/modules/learn-git-git-workflow-u/cheatsheet) from [Code Academy](https://www.codecademy.com/) ( _course_ )
-- ⭐ [Course on Git](https://www.codecademy.com/learn/learn-git) from [Code Academy](https://www.codecademy.com/) ( _course_ )
 - ⭐ [Learn Git Branching through game](https://learngitbranching.js.org/) ( _interactive_ ) ( _reading_ )
 - ⭐ [Git in 1 Hour](https://youtu.be/8JJ101D3knE) by [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh) ( _video_ )
+- [Course on Git](https://www.codecademy.com/learn/learn-git) from [Code Academy](https://www.codecademy.com/) ( _course_ )
 - [Git: Complete Course Tutorial](https://www.youtube.com/watch?v=vMdSqMf6BPY&list=PL_euSNU_eLbegnt7aR8I1gXfLhKZbxnYX) by [Leela Web Dev](https://www.youtube.com/c/LeelaWebDev) ( _video_ ) ( _course_ )
 - [Git. Большой практический выпуск](https://www.youtube.com/watch?v=SEvR78OhGtw) by [Артем Матяшов](https://www.youtube.com/channel/UCJHS22_QyRowmNAaxoUd4dA) ( _video_ ) ( _course_ ) ( _non-eng_ )
 - [Git: курс](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb) ( _video_ ) ( _course_ ) ( _non-eng_ )
@@ -26,10 +26,11 @@ Awesome list of learn materials on Git.
 
 ## Advanced
 
+- ⭐ [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html) ( _reading_ )
 - [Git - Book](https://git-scm.com/book/en/v2) ( _reading_ ) ( _official_ )
 - [Git for Profesionals](https://www.youtube.com/watch?v=Uszj_k0DGsg) by [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp) ( _video_ )
 - [Three-git-tips](https://github.com/saraford/three-git-tips) by [saraford](https://github.com/saraford) ( _reading_ )
-- [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html) ( _reading_ )
+- [13 Advanced Git Techniques and Shortcuts](https://www.youtube.com/watch?v=ecK3EnyGD8o) by [Fireship](https://www.youtube.com/@Fireship/playlists) : ( _video_ )
 
 ## Git & GitHub
 
