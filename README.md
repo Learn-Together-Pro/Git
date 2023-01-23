@@ -39,6 +39,12 @@ Awesome list of learn materials on Git.
 - [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk) by [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)  ( _video_ )
 - [Git and GitHub Tutorial For Beginners](https://www.youtube.com/watch?v=3fUbBnN_H2c) by [Amigoscode](https://www.youtube.com/c/amigoscode) ( _video_ )
 
+# GIT Certification
+
+- ⭐ [Source Control Management with Git](https://training.linuxfoundation.org/certification/git/?SSAID=746540&sscid=11k7_os2de) (_cource_) (_certification_)
+- [Foundations of Git](https://learn.gitkraken.com/courses/git-foundations) (_cource_) (_certification_)
+- [GitLab Certified Git Associate](https://about.gitlab.com/services/education/gitlab-certified-associate/) (_official_) (_cource_) (_certification_)
+
 ## Cheatsheets
 
 ( _cheatsheet_ )
@@ -50,6 +56,7 @@ Awesome list of learn materials on Git.
 - ( _official_ ) - official material
 - ( _non-eng_ ) - non-english language
 - ( _course_ ) - consists of series of text/video articles trying to give to a reader solid foundation
+- ( _certification_ ) - formal attestation to validate your proficiency through exams 
 - ( _reading_ ) - material to read
 - ( _video_ ) - material to watch
 - ( _cheatsheet_ ) - cheat sheet
