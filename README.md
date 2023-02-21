@@ -23,6 +23,7 @@ Awesome list of learn materials on Git.
 - [Git - the simple guide](http://up1.github.io/git-guide/index.html) ( _reading_ )
 - [Git Immersion](https://gitimmersion.com/index.html) ( _reading_ ) ( _course_ )
 - [Udemy Free Course](https://www.udacity.com/course/version-control-with-git--ud123?irclickid=X8KTyLyCxxyNTbgQNSSAlymTUkAxo6zuc2jQTM0&irgwc=1&utm_source=affiliate&utm_medium=&aff=245992&utm_term=&utm_campaign=__&utm_content=&adid=786224) ( _course_ )
+- [Git Branching and Merging](https://www.youtube.com/watch?v=Q1kHG842HoI) by [SuperSimpleDev](https://www.youtube.com/@SuperSimpleDev)
 
 ## Advanced
 
@@ -56,7 +57,7 @@ Awesome list of learn materials on Git.
 - ( _official_ ) - official material
 - ( _non-eng_ ) - non-english language
 - ( _course_ ) - consists of series of text/video articles trying to give to a reader solid foundation
-- ( _certification_ ) - formal attestation to validate your proficiency through exams 
+- ( _certification_ ) - formal attestation to validate your proficiency through exams
 - ( _reading_ ) - material to read
 - ( _video_ ) - material to watch
 - ( _cheatsheet_ ) - cheat sheet
