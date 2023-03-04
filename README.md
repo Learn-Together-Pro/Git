@@ -23,6 +23,7 @@ Awesome list of learn materials on Git.
 - [Git - the simple guide](http://up1.github.io/git-guide/index.html) ( _reading_ )
 - [Git Immersion](https://gitimmersion.com/index.html) ( _reading_ ) ( _course_ )
 - [Udemy Free Course](https://www.udacity.com/course/version-control-with-git--ud123?irclickid=X8KTyLyCxxyNTbgQNSSAlymTUkAxo6zuc2jQTM0&irgwc=1&utm_source=affiliate&utm_medium=&aff=245992&utm_term=&utm_campaign=__&utm_content=&adid=786224) ( _course_ )
+- [Git Branching and Merging](https://www.youtube.com/watch?v=Q1kHG842HoI) by [SuperSimpleDev](https://www.youtube.com/@SuperSimpleDev)
 
 ## Advanced
 
@@ -40,17 +41,28 @@ Awesome list of learn materials on Git.
 - [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk) by [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)  ( _video_ )
 - [Git and GitHub Tutorial For Beginners](https://www.youtube.com/watch?v=3fUbBnN_H2c) by [Amigoscode](https://www.youtube.com/c/amigoscode) ( _video_ )
 
+## GIT Certification
+
+- ⭐ [Source Control Management with Git](https://training.linuxfoundation.org/certification/git/?SSAID=746540&sscid=11k7_os2de) (_cource_) (_certification_)
+- [Foundations of Git](https://learn.gitkraken.com/courses/git-foundations) (_cource_) (_certification_)
+- [GitLab Certified Git Associate](https://about.gitlab.com/services/education/gitlab-certified-associate/) (_official_) (_cource_) (_certification_)
+
 ## Cheatsheets
 
 ( _cheatsheet_ )
 
 - [Git Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) by [GitLab](https://gitlab.com)
 
+## See also
+
+- [Misconceptions and advices](./misconceptions_and_advices.md)
+
 ## Tags legend
 
 - ( _official_ ) - official material
 - ( _non-eng_ ) - non-english language
 - ( _course_ ) - consists of series of text/video articles trying to give to a reader solid foundation
+- ( _certification_ ) - formal attestation to validate your proficiency through exams
 - ( _reading_ ) - material to read
 - ( _video_ ) - material to watch
 - ( _cheatsheet_ ) - cheat sheet
