@@ -56,6 +56,7 @@ Awesome list of learn materials on Git.
 ## See also
 
 - [Misconceptions and advices](./misconceptions_and_advices.md)
+- [Cheatsheets](./cheatsheets.md)
 
 ## Tags legend
 
