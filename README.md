@@ -52,6 +52,10 @@ Awesome list of learn materials on Git.
 
 - [Git Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) by [GitLab](https://gitlab.com)
 
+## See also
+
+- [Misconceptions and advices](./misconceptions_and_advices.md)
+
 ## Tags legend
 
 - ( _official_ ) - official material
