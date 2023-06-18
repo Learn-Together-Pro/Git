@@ -1,4 +1,4 @@
-# Learn Git Together
+# 🧭 Learn Git Together
 
 Awesome list of learn materials on Git.
 
